@@ -1,0 +1,14 @@
+{
+  "name": "meeting-minutes-ai",
+  "version": "1.2.3",
+  "description": "AI-powered meeting minutes generator from audio/video recordings",
+  "main": "minutes.js",
+  "scripts": {
+    "start": "node minutes.js",
+    "test": "echo \"No tests yet\"",
+    "postinstall": "node scripts/setup.js"
+  },
+  "keywords": ["meeting", "minutes", "ai", "transcription", "summary"],
+  "author": "demo",
+  "license": "MIT"
+}
