@@ -28,7 +28,7 @@
 
 ```bash
 git clone https://github.com/example/meeting-minutes-ai.git
-cd meeting-minutes-ai
+cd ai-meeting-minutes-demo
 npm install
 ```
 
