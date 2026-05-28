@@ -27,7 +27,7 @@
 ## 💻 インストール
 
 ```bash
-git clone https://github.com/example/meeting-minutes-ai.git
+git clone https://github.com/m-sakada/ai-meeting-minutes-demo
 cd ai-meeting-minutes-demo
 npm install
 ```
